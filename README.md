@@ -22,8 +22,7 @@ MemeMe is a simple React project that displays random memes and allows users to 
 - Giphy API or similar meme API
 
 ---
-
-## 📁 screenshots
-![App Screenshot](./public/Screenshots/screenshot-1.mp4)
+## Watch Demo
+[![Watch the Demo](https://img.youtube.com/vi/DlLUbUmZLuw/0.jpg)](https://youtu.be/DlLUbUmZLuw)
 
 
