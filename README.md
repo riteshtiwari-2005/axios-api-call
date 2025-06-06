@@ -24,6 +24,6 @@ MemeMe is a simple React project that displays random memes and allows users to 
 ---
 
 ## 📁 screenshots
-![App Screenshot](./public/Screenshots/screenshot.png)
+![App Screenshot](./public/Screenshots/screenshot-1.mp4)
 
 
